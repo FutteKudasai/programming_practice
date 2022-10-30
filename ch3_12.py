@@ -1,0 +1,13 @@
+x1 = 97
+x2 = chr(x1)
+print(x2)
+x3 = ord(x2)
+print(x3)
+x41 = ("曹")
+print(ord(x41))
+x42 = ("宇")
+print(ord(x42))
+x43 = ("皓")
+print(ord(x43))
+x5 = chr(48)
+print(x5)

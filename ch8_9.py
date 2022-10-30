@@ -1,0 +1,5 @@
+keys = ('magic', 'xaab', 9099)
+tuple_keys = tuple(keys)
+print("列印串列", keys)
+print("列印元組", tuple_keys)
+tuple_keys.append('secret')

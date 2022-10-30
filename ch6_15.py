@@ -1,0 +1,10 @@
+cars = ["Honda", "Toyota", "Ford", "BMW"]
+print("目前串列內容 = ", cars)
+print("使用pop()串列元素")
+popped_car = cars.pop()
+print("所刪除的串列內容是:", popped_car)
+print("新的串列內容 = ", cars)
+print("使用pop(1)刪除串列內容是:", popped_car)
+popped_car = cars.pop(1)
+print("所刪除的串列內容是:", popped_car)
+print("新的串列內容 = ", cars)

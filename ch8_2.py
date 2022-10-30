@@ -1,0 +1,8 @@
+numbers1 = (1, 2, 3, 4, 5)
+fruits = ('apple', 'orange')
+val_tuple = (10,)
+print(numbers1[0])
+print(numbers1[4])
+print(fruits[0])
+print(fruits[4])
+print(val_tuple[0])
